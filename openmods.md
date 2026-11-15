@@ -21,7 +21,7 @@ your save; every value goes back to the game's when you set it to Off or Game.
 
 ## Screenshots
 
-![Easier Parry and Dodge](docs/cover.png)
+![Easier Parry and Dodge](docs/cover.webp)
 
 ## How to install
 
